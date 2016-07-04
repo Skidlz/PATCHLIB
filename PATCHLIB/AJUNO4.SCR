@@ -1,0 +1,13 @@
+LOW FREQUENCY OSCILLATOR  
+(VIBRATO EFFECTS)            DCO            VCF
+                              Ё              Ё
+                              Ё              Ё
+                           зддадд©           Ё
+                           Ё LFO цддддддддддды
+                           юддддды
+
+
+LFO RATE      =     0 - 127   Sets the rate of low frequency oscillation.
+LFO DELAY     =     0 - 127   Sets the time needed from keypress before
+                                 LFO starts
+RETURN        =     Go back to primary edit diagram (all changes saved).

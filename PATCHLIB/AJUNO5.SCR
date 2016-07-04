@@ -1,0 +1,19 @@
+HICH AND LOW PASS FILTERS
+
+                         ÚÄÄÄÄÄ¿          ÚÄÄÄÄÄ¿ 
+RAW WAVEFORM ÄÄÄÄÄÄÄÄÄÄÄ¯³ HPF ÃÄÄÄÄÄÄÄÄÄÄ´ VCF ÃÄÄÄ¯ TO AMPLIFICATION (VCA)
+                         ÀÄÄÄÄÄÙ          ÀÄÄÄÄÄÙ
+
+                              Possible Selections
+
+HPF FREQUENCY =     0 - 3   0=Low F. Emph, 1=Flat, 2=Low Cutoff, 3=Higher
+VCF FREQUENCY =     0 - 127   Higher values give higher freq. cutoff,
+                                 (less high frequency filter).
+VCF RESONANCE =     0 - 127   Sets how much VCF resonance (emph, cutoff).
+VCF ENV LEVEL =     0 - 127   Sets how much VCF changed by ENV.
+VCF ENV MODE  =     0 - 3   0=Normal, 1=Inverted, 2=Norm/dyn, 3=Gate/dyn.
+VCF LFO       =     0 - 127   Sets depth of LFO modulation to VCF cutoff.
+VCF KEYBOARD  =     0 - 127   Sets degree higher keys will get more filtering.
+VCF AFTER     =     0 - 127   Aftertouch can be used to change VCF cutoff.
+              =
+RETURN        =     Go back to primary edit diagram (all changes saved).

@@ -1,0 +1,20 @@
+ENVELOPE CONTROL
+
+A    ³     T1    ³T2³T3³        ³ T4 ³
+M    ³-----------³--³--³        ³    ³
+P    ³           ³--³--³--------³----³---------
+L    ³          / \ ³--³--------³----³------  ^
+I    ³        /     \  ³        ³    ³     ^  ³
+T    ³      /         \³________³----³---  ³  ³
+U    ³    /                     \    ³  ^  ³  ³
+D    ³  /                         \  ³ L3 L2 L1
+E ___³/                             \³__v__v__v
+     ^                               ^
+     ÀKey On       TimeÄÄÄÄ¯         ÀKey Off
+
+T1=              L1=
+T2=              L2=         (All values are limited 0 - 127)
+T3=              L3=
+T4=
+ENVELOPE KEY FOLLOW  =      0 - 15, Shortend envelope time on higher notes.
+RETURN        =     Go back to primary edit diagram (all changes saved).

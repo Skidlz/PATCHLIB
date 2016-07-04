@@ -1,0 +1,21 @@
+Controls On Primary  ÚÄÄÄÄ¿
+Input Waveforms      ³ DCOÃÄÄÄÄ¯ SIGNAL TO FILTERS
+                     ÀÄÄÄÄÙ
+
+                          Possible Selections
+
+DCO RNG       =     0=4', 1=8', 2=16', 3=32' Equ. organ pipe for fundamental.
+DCO LFO LEVL  =     0 - 127   Controls amount of LFO modulation for DCO.
+DCO ENV LEVL  =     0 - 127   If ENV modulates DCO, sets amount.
+DCO ENV MODE  =     0=Normal, 1=Inverted, 2=Norm/dyn, 3=Inv/dyn ENV polarity.
+DCO AFTR      =     0 - 15   Amount of aftertouch modulation on DCO.
+DCO BEND      =     0 - 12   Numer of semitones change from pitch bender.
+PULSE         =     0 - 3  0=Off, 1=Square Wave, 2=Half, 3=PW/PWM(*).
+SAWTOOTH      =     0 - 5  0=Off, 1=Saw, 2=Half, 3=PW/PWM(*), 4/5 - Fingers.
+SUB WAVE      =     0 - 5  0=Square, 1=Half, 2=Chop, 3=Fingers, 4/5 -2octv.
+SUB LEVEL     =     0 - 3  Sets volume of sub-fundamental vibrations.
+NOIS LEVL     =     0 - 3  Sets volume of noise generated.
+PW/PWM        =     Sets % on time for Square and Sawtooth options #3.(*)
+PWM RATE      =     Sets rate of the LFO modulation of PW/PWM.
+
+RETURN        =     Go back to primary edit diagram (all changes saved).

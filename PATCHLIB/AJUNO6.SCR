@@ -1,0 +1,16 @@
+AMPLIFICATION AND CHORUS
+
+                         ÚÄÄÄÄÄ¿        ÚÄÄÄÄÄÄÄÄ¿ 
+FILTERED SIGNAL ÄÄÄÄÄÄÄÄ¯³ VCA ÃÄÄÄÄÄÄÄÄ´ CHORUS ÃÄÄÄ¯ FINISHED SIGNAL TO
+                         ÀÄÄÄÄÄÙ        ÀÄÄÄÄÄÄÄÄÙ     LEFt AND RIGHT CHANNELS
+
+                              Possible Selections
+
+
+VCA LEVEL     =     0 - 127  Sets degree of amplification.
+VCA ENV MODE  =     0 - 3   0=Normal, 1=Gate, 2=Norm/dyn, 3=Gate/dyn.
+VCA AFTER     =     0 - 15   Aftertouch can be used to change amplification.
+CHORUS        =     0=Off (single instrument, 1=On (multiple inst.).
+CHORUS RATE   =     0 - 127  Sets rate of chorus oscillation between channels.
+
+RETURN        =     Go back to primary edit diagram (all changes saved).
